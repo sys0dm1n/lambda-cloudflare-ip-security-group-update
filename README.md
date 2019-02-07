@@ -1,6 +1,6 @@
 # lambda-cloudflare-ip-security-group-update
 
-Only allowing access from cloudflare IPv4 addresses by whitelisting them into your AWS security group.
+Using a Lambda function to automate creating and updating a Security Group of Cloudflares IPv4 addresses.
 
 ## Configure triggers using CloudWatch Events
 
