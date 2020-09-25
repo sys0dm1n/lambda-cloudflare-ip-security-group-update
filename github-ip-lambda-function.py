@@ -1,6 +1,6 @@
 import os
 import boto3
-from botocore.vendored import requests
+import requests
 
 
 def get_cloudflare_ip_list():
